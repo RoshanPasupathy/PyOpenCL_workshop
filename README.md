@@ -1,7 +1,7 @@
 # README #
 
 # What is this repository for?
-* This repository is contains all the OpenCL workshop content
+* This repository contains all the OpenCL workshop content
 
 # How do I get set up? 
 ##1.Using a Virtual Machine 
