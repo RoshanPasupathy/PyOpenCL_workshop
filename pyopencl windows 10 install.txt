@@ -1,0 +1,10 @@
+PyOpenCL installation on Windows 10:
+(Instructions morphed from https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_PyOpenCl_On_Anaconda_For_Windows?lang=en)
+
+1. Install the latest 64 bit Anaconda distribution with Python 3.x on it
+2. Find a pyopencl prebuilt binary @ http://www.lfd.uci.edu/~gohlke/pythonlibs/?cm_mc_uid=85337168801614888902284&cm_mc_sid_50200000=1489954410#pyopencl
+3. Download pyopencl-2016.2.1+cl21-cp36-cp36m-win_amd64.whl to a folder of choosing
+4. Open terminal and navigate to that folder
+5. >> pip install pyopencl-2016.2.1+cl21-cp36-cp36m-win_amd64.whl
+6. Download demo.py from https://github.com/pyopencl/pyopencl/tree/master/examples to the same folder
+(7. >> python demo.py) testing step
