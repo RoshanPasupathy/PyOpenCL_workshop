@@ -14,7 +14,7 @@
 * git pull origin
 
 ## 2.Using your personal device
-* gitclone https://RoshanPasupathy@bitbucket.org/RoshanPasupathy/opencl_workshop.git
+* gitclone https://github.com/RoshanPasupathy/PyOpenCL_workshop
 * Refer to presentation slides for instructions regarding installing OpenCL and PyOpenCL
 
 # Some Useful Links and Articles
