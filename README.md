@@ -5,7 +5,7 @@
 
 # How do I get set up? 
 ## 1.Using a Virtual Machine 
-* You will Virtual Box and ~10 Gb memory
+* You will need Virtual Box and ~10 Gb memory
 * Download the [virtual machine](https://www.dropbox.com/s/fjs2w04sjyjfp49/Ubuntu14_PyOpenCL.ova?dl=0)
 * Import Appliance
 * login: feeg6003
