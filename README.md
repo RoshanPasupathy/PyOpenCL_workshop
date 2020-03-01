@@ -25,5 +25,5 @@
 * Andreas Klöckner's [PyOpenCL Documentation Page](https://documen.tician.de/pyopencl/) contains additional resources for learning OpenCL
 * Khronos Group reference cards: [OpenCL.v1.2](https://www.khronos.org/files/opencl-1-2-quick-reference-card.pdf) [OpenCL.v2.0](https://www.khronos.org/files/opencl20-quick-reference-card.pdf)  
  
-# Who do I talk to?
-* Contributors: Roshan Pasupathy (rp3g13@soton.ac.uk)  and Alex Fforde
+# Contributors
+* Roshan Pasupathy and Alex Fforde
